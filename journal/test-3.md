@@ -7,4 +7,4 @@ excerpt: Get up and running with a fresh macOS Mojave install test
 ---
 #### My blog post
 
-Empty post
+Empty post test
